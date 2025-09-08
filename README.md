@@ -1,3 +1,3 @@
 # LanguageDetector
 ## Install Lingua
-```pip install lingua```
+```pip install lingua-language-detector```
